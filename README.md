@@ -10,4 +10,4 @@
 https://youtu.be/bhHq8UEMh7g?si=Iyckk2gkTwDlvsJ8
 
 # Link de proyecto desplegado
-miapppython.azurewebsites.net
+https://miapppython.azurewebsites.net/
