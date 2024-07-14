@@ -29,7 +29,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Package application
-        run: zip -r python-app.zip .
+        run: zip -r python-app.zip . -x "*.pdf"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
